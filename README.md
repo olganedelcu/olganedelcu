@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Typescript also the tedious testing part working with Cypress.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/olganedelcu](https://github.com/olganedelcu)
+- 👩‍💻 All of my projects are available at [https://github.com/olganedelcu](https://github.com/olganedelcu)
 
 - 📫 How to reach me **olganedelcuam@gmail.com**
 
