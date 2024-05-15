@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **olganedelcuam@gmail.com**
 
-- 📄 Know about my experiences [https://standardresume.co/r/olganedelcu](https://standardresume.co/r/olganedelcu)
+- 📄 Know about my experiences [Personal Portfolio](https://olga-nedelcu-portfolio.vercel.app/)
 
 ## Connect with me:
 <p align="left">
