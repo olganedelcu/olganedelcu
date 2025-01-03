@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **olganedelcuam@gmail.com**
 
-- 📄 Know about my experiences [Personal Portfolio](https://olga-software-engineer.vercel.app/)
+- 📄 Know about my experiences [Personal Portfolio](https://olganedelcu.com/))
 
 ## Connect with me:
 <p align="left">
