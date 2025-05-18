@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Olga</h1>
-<h3 align="center">A passionate frontend developer from Romania 🇷🇴 based in Berlin 🇩🇪.</h3>
+<h3 align="center">Helping you land that Dream Job @Jobsties</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olganedelcu&label=Profile%20views&color=0e75b6&style=flat" alt="olganedelcu" /> </p>
 
-- 🌱 I’m currently focused in **React and Typescript also the tedious testing part working with Cypress.**
+- 🌱 I’m currently growing Jobsties**
 
 - 👩‍💻 All of my projects are available at [https://github.com/olganedelcu](https://github.com/olganedelcu)
 
-- 📫 How to reach me **olganedelcuam@gmail.com**
+- 📫 How to reach me **olga@jobsties.com**
 
-- 📄 Know about my experiences [Personal Portfolio](https://olganedelcu.com/))
+- 📄 Enroll at [https://jobsties.com](https://jobsties.com)
 
 ## Connect with me:
 <p align="left">
