@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently growing **Jobsties**
 
-- 👩‍💻 All of my projects are available at [https://github.com/olganedelcu](https://github.com/olganedelcu)
+- 👩‍💻 Visit us [https://github.com/olganedelcu](https://github.com/olganedelcu)
 
 - 📫 How to reach me **olga@jobsties.com**
 
