@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olganedelcu&label=Profile%20views&color=0e75b6&style=flat" alt="olganedelcu" /> </p>
 
-- 🌱 I’m currently growing Jobsties**
+- 🌱 I’m currently growing **Jobsties**
 
 - 👩‍💻 All of my projects are available at [https://github.com/olganedelcu](https://github.com/olganedelcu)
 
