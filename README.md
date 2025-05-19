@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olganedelcu&label=Profile%20views&color=0e75b6&style=flat" alt="olganedelcu" /> </p>
 
-- 🌱 I’m currently growing **Jobsties**
+- 🌱 I’m currently growing **Jobsties** [https://jobsties.com](https://jobsties.com)
 
-- 👩‍💻 Visit us [https://github.com/olganedelcu](https://github.com/olganedelcu)
+- 👩‍💻 Visit us [https://jobsties.com](https://jobsties.com)
 
 - 📫 How to reach me **olga@jobsties.com**
 
