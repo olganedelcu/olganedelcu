@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olga</h1>
 <h3 align="center">Helping you land that Dream Job @Jobsties</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=olganedelcu&label=Profile%20views&color=0e75b6&style=flat" alt="olganedelcu" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=olganedelcu&label=Profile%20views&color=0e75b6&style=flat](https://avatars.githubusercontent.com/u/33576634?v=4)" alt="olganedelcu" /> </p>
 
 - 🌱 I’m currently growing **Jobsties** [https://jobsties.com](https://jobsties.com)
 
