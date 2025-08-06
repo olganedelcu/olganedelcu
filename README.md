@@ -1,6 +1,6 @@
 ## Hey there, I'm Olga ☺️
 
-I love technology, so I became a software engineer and built my career in Germany (fintech and industrial stuff).
+I love technology, so I became a software engineer and built my career in Germany (fintech and industrial sectors).
 
 But honestly? I know what it's like to feel stuck in a role that doesn't fit.
 
