@@ -1,4 +1,4 @@
-# Founder & Tech Leader @Jobsties
+## Founder & Tech Leader @Jobsties
 
 Growing up loving technology led me to pursue software engineering. Now, I help international talent get hired into roles in Germany and beyond. Through Jobsties, we’ve empowered over 100 professionals to build global careers that make a difference.
 
