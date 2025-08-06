@@ -1,12 +1,14 @@
 ## Hey there, I'm Olga ☺️
 
-I know what it’s like to feel stuck in a role that doesn’t truly fit. Together with my two sisters, I co‑founded **Jobsties**, because we believe international professionals deserve better.
+I love technology, so I became a software engineer and built my career in Germany (fintech and industrial stuff).
 
-Growing up loving technology led me to pursue software engineering. And that enabled me to build a career in Germany, working for fintech and industrial sectors. 
+But honestly? I know what it's like to feel stuck in a role that doesn't fit.
 
-Now, through Jobsties, we’ve empowered over 100+ professionals to build global careers at Brita, Siemens, Impress, eBay and many more 🚀
+That's why my two sisters and I started Jobsties - international professionals deserve way better.
 
-🌱 Currently leading Jobsties - a career platform offering coaching, application tools, and community resources. I build products and share insights to help job seekers succeed across Europe.
+We've now helped 100+ people land jobs at Brita, Siemens, Impress, eBay and more 🚀
+
+🌱 Leading Jobsties now - coaching, tools, and community for job seekers across Europe. I build products and share what actually works.
 
 Check it out: [Jobsties.com](https://www.jobsties.com/)
 
