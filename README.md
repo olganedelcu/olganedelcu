@@ -4,6 +4,8 @@ Growing up loving technology led me to pursue software engineering. Now, I help 
 
 🌱 Currently leading Jobsties — a career platform offering coaching, application tools, and community resources. I build products and share insights to help job seekers succeed across Europe.
 
+Check it out: (Jobsties.com](https://www.jobsties.com/))
+
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/olganedelcu/" target="_blank">
