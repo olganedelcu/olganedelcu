@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Olga</h1>
-<h3 align="center">Helping you land that Dream Job @Jobsties</h3>
+# Founder & Tech Leader @Jobsties
 
-- 🌱 I’m currently growing **Jobsties** [https://jobsties.com](https://jobsties.com)
+Growing up loving technology led me to pursue software engineering. Now, I help international talent get hired into roles in Germany and beyond. Through Jobsties, we’ve empowered over 100 professionals to build global careers that make a difference.
 
-- 📫 How to reach me **olganedelcu@gmail.com**
+🌱 Currently leading Jobsties — a career platform offering coaching, application tools, and community resources. I build products and share insights to help job seekers succeed across Europe.
 
 ## Connect with me:
 <p align="left">
