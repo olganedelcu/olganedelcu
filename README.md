@@ -1,6 +1,8 @@
 ## Hey there, I'm Olga ☺️
 
-Growing up loving technology led me to pursue software engineering. Now, I help international talent get hired into roles in Germany and beyond. Through Jobsties, we’ve empowered over 100+ professionals to build global careers 🚀
+I know what it’s like to feel stuck in a role that doesn’t truly fit. Together with my two sisters, I co‑founded **Jobsties**, because we believe international professionals deserve better.
+
+Growing up loving technology led me to pursue software engineering. Now, through Jobsties, we’ve empowered over 100+ professionals to build global careers 🚀
 
 🌱 Currently leading Jobsties — a career platform offering coaching, application tools, and community resources. I build products and share insights to help job seekers succeed across Europe.
 
