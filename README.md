@@ -5,11 +5,7 @@
 
 - 🌱 I’m currently growing **Jobsties** [https://jobsties.com](https://jobsties.com)
 
-- 👩‍💻 Visit us [https://jobsties.com](https://jobsties.com)
-
-- 📫 How to reach me **olga@jobsties.com**
-
-- 📄 Enroll at [https://jobsties.com](https://jobsties.com)
+- 📫 How to reach me **olganedelcu@gmail.com**
 
 ## Connect with me:
 <p align="left">
