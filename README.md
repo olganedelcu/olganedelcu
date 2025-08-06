@@ -11,14 +11,15 @@ Now, through Jobsties, we’ve empowered over 100+ professionals to build global
 Check it out: [Jobsties.com](https://www.jobsties.com/)
 
 #### Let's connect:
+
 <p align="left">
   <a href="https://www.linkedin.com/in/olganedelcu/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" />
   </a>
+  
   <a href="https://medium.com/@olganedelcuam" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="20" width="20" />
   </a>
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=olganedelcu&label=Profile%20views&color=0e75b6&style=flat" alt="olganedelcu" /> </p>
