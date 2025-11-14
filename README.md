@@ -6,7 +6,7 @@ But honestly? I know what it's like to feel stuck in a role that doesn't fit.
 
 That's why my two sisters and I started Jobsties - international professionals deserve way better.
 
-We've now helped 100+ people land jobs at Brita, Siemens, Impress, eBay and more 🚀
+We've now helped 150+ people land jobs at Brita, Siemens, Impress, eBay and more 🚀
 
 🌱 Leading Jobsties now - coaching, tools, and community for job seekers across Europe. I build products and share what actually works.
 
