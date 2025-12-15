@@ -8,17 +8,20 @@ Tech stack: React, TypeScript, JavaScript, modern testing frameworks, and full-s
 
 Check my website out: [olganedelcu.com]([https://olganedelcu.com/])
 
-#What I've shipped:
+# What I've shipped:
 
 - Production-grade web applications serving active user communities
 - UX-focused platforms with real business impact
 - Tools and systems supporting complex user workflows
 
-#What drives me: 
+# What drives me: 
 
 Building products that solve real problems, technical mentorship, and creating exceptional user experiences.
 
 Check out what I built: 
+ - Jobsties Tracker: https://academy.jobsties.com/
+ - Jobsties Platform: https://platform.jobsties.com/
+ - Jobsties Academy: https://www.jobsties.com/
 
 #### Let's connect:
 
