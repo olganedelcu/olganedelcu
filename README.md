@@ -2,15 +2,23 @@
 
 I love technology, so I became a software engineer and built my career in Germany (fintech and industrial sectors).
 
-But honestly? I know what it's like to feel stuck in a role that doesn't fit.
+I'm a software engineer with 4+ years of production experience across fintech and industrial sectors, specializing in modern frontend architectures and scalable web applications.
 
-That's why my two sisters and I started Jobsties - international professionals deserve way better.
+Tech stack: React, TypeScript, JavaScript, modern testing frameworks, and full-stack web development.
 
-We've now helped 150+ people land jobs at Brita, Siemens, Impress, eBay and more 🚀
+Check my website out: [[Jobsties.com]([https://olganedelcu.com/]
 
-🌱 Leading Jobsties now - coaching, tools, and community for job seekers across Europe. I build products and share what actually works.
+#What I've shipped:
 
-Check it out: [Jobsties.com](https://www.jobsties.com/)
+- Production-grade web applications serving active user communities
+- UX-focused platforms with real business impact
+- Tools and systems supporting complex user workflows
+
+#What drives me: 
+
+Building products that solve real problems, technical mentorship, and creating exceptional user experiences.
+
+Check out what I built: 
 
 #### Let's connect:
 
