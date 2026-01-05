@@ -6,7 +6,7 @@ I'm a software engineer with 4+ years of production experience across fintech an
 
 Tech stack: React, TypeScript, JavaScript, modern testing frameworks, and full-stack web development.
 
-Check my website out: [[olganedelcu.com]([https://olganedelcu.com/])](https://olganedelcu.com/)
+Check my website out: [olganedelcu.com](https://olganedelcu.com/)
 
 # What I've shipped:
 
