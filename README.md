@@ -21,7 +21,7 @@ Building products that solve real problems, technical mentorship, and creating e
 Check out what I built: 
  - Jobsties Tracker: https://academy.jobsties.com/
  - Jobsties Platform: https://platform.jobsties.com/
- - Jobsties Academy: https://www.jobsties.com/
+ - Check out more projects here: https://olganedelcu.com/projects/
 
 #### Let's connect:
 
