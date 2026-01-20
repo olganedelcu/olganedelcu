@@ -2,7 +2,7 @@
 
 I love technology, so I became a software engineer and built my career in Germany (fintech and industrial sectors).
 
-I'm a software engineer with 4+ years of production experience across fintech and industrial sectors, specializing in modern frontend architectures and scalable web applications.
+I'm a software engineer with about 4 years of production experience across fintech and industrial sectors, specializing in modern frontend architectures and scalable web applications.
 
 Tech stack: React, TypeScript, JavaScript, modern testing frameworks, and full-stack web development.
 
