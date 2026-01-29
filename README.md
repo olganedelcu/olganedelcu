@@ -23,7 +23,7 @@ Check out what I built:
  - Jobsties Platform: https://platform.jobsties.com/
  - Check out more projects here: https://olganedelcu.com/projects/
 
-#### Let's connect:
+### Let's connect:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/olganedelcu/" target="_blank">
