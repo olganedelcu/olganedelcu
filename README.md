@@ -20,7 +20,7 @@ Building products that solve real problems, technical mentorship, and creating e
 
 Check out what I built: 
  - Jobsties Tracker: https://academy.jobsties.com/
- - Journal platform: [about:blank](https://journal-diary-eight.vercel.app/)
+ - Journal platform: https://journal-diary-eight.vercel.app/
  - Biomarker display: https://frontend-data-rouge.vercel.app/
  - Debugging ATS tool: https://practice-sandy-three.vercel.app/
  - Jobsties Platform: https://platform.jobsties.com/
