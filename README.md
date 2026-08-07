@@ -20,6 +20,7 @@ Building products that solve real problems, technical mentorship, and creating e
 
 Check out what I built: 
  - Jobsties Tracker: https://academy.jobsties.com/
+ - Marketing Manager Portfolio: https://marketing-manager-portfolio.vercel.app/about
  - Journal platform: https://journal.olganedelcu.com/
  - Biomarker display: https://frontend-data-rouge.vercel.app/
  - Debugging ATS tool: https://practice-sandy-three.vercel.app/
